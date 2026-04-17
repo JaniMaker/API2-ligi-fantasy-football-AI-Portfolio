@@ -1,2 +1,2 @@
-# api-book-part-three
-Source code for Part 3 of Hands on APIs for AI and Data Science
+# Projekt III: Portfolio AI
+To repozytorium zawiera program wykorzystujący standardowe biblioteki Pythona, oparty na projektach z książki Ryana Daya "Interfejsy API w AI i Data Science".
